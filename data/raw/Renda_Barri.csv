@@ -1,0 +1,519 @@
+"year","type","areaType","areaId","areaLabel","value"
+"2015","record","neighborhood","1","el Raval",56.8343591075839
+"2016","record","neighborhood","1","el Raval",55.7622908517381
+"2017","record","neighborhood","1","el Raval",57.9753768367047
+"2018","record","neighborhood","1","el Raval",58.0818015903748
+"2019","record","neighborhood","1","el Raval",57.116529373938
+"2020","record","neighborhood","1","el Raval",54.0522360464874
+"2021","record","neighborhood","1","el Raval",57.8143056689544
+"2015","record","neighborhood","2","el Barri Gòtic",75.9616290787678
+"2016","record","neighborhood","2","el Barri Gòtic",75.6895562125897
+"2017","record","neighborhood","2","el Barri Gòtic",77.6892724948453
+"2018","record","neighborhood","2","el Barri Gòtic",78.1286066553716
+"2019","record","neighborhood","2","el Barri Gòtic",78.59041741061
+"2020","record","neighborhood","2","el Barri Gòtic",77.2796023729295
+"2021","record","neighborhood","2","el Barri Gòtic",79.0597502715795
+"2015","record","neighborhood","3","la Barceloneta",74.0176526581955
+"2016","record","neighborhood","3","la Barceloneta",72.6844290957849
+"2017","record","neighborhood","3","la Barceloneta",73.5281191829435
+"2018","record","neighborhood","3","la Barceloneta",73.9280073359929
+"2019","record","neighborhood","3","la Barceloneta",73.8595213375533
+"2020","record","neighborhood","3","la Barceloneta",72.3333015094689
+"2021","record","neighborhood","3","la Barceloneta",76.8711264393947
+"2015","record","neighborhood","4","Sant Pere, Santa Caterina i la Ribera",77.6535457649228
+"2016","record","neighborhood","4","Sant Pere, Santa Caterina i la Ribera",79.1420399461725
+"2017","record","neighborhood","4","Sant Pere, Santa Caterina i la Ribera",81.9289210271279
+"2018","record","neighborhood","4","Sant Pere, Santa Caterina i la Ribera",83.5851983451671
+"2019","record","neighborhood","4","Sant Pere, Santa Caterina i la Ribera",83.2653156535266
+"2020","record","neighborhood","4","Sant Pere, Santa Caterina i la Ribera",81.1014223328896
+"2021","record","neighborhood","4","Sant Pere, Santa Caterina i la Ribera",82.6969985551183
+"2015","record","neighborhood","5","el Fort Pienc",104.789882905663
+"2016","record","neighborhood","5","el Fort Pienc",103.937413482918
+"2017","record","neighborhood","5","el Fort Pienc",104.416059978938
+"2018","record","neighborhood","5","el Fort Pienc",103.681311520454
+"2019","record","neighborhood","5","el Fort Pienc",104.366528475817
+"2020","record","neighborhood","5","el Fort Pienc",103.809074259938
+"2021","record","neighborhood","5","el Fort Pienc",105.077139679446
+"2015","record","neighborhood","6","la Sagrada Família",104.327100236004
+"2016","record","neighborhood","6","la Sagrada Família",102.6976930386
+"2017","record","neighborhood","6","la Sagrada Família",101.71591983276
+"2018","record","neighborhood","6","la Sagrada Família",101.831316390101
+"2019","record","neighborhood","6","la Sagrada Família",101.253552067654
+"2020","record","neighborhood","6","la Sagrada Família",101.618558514636
+"2021","record","neighborhood","6","la Sagrada Família",102.4850394443
+"2015","record","neighborhood","7","la Dreta de l'Eixample",129.886954574897
+"2016","record","neighborhood","7","la Dreta de l'Eixample",136.207380540108
+"2017","record","neighborhood","7","la Dreta de l'Eixample",136.089334718412
+"2018","record","neighborhood","7","la Dreta de l'Eixample",134.345686551919
+"2019","record","neighborhood","7","la Dreta de l'Eixample",137.674100711671
+"2020","record","neighborhood","7","la Dreta de l'Eixample",132.779905022727
+"2021","record","neighborhood","7","la Dreta de l'Eixample",126.760623253678
+"2015","record","neighborhood","8","l'Antiga Esquerra de l'Eixample",120.887549445843
+"2016","record","neighborhood","8","l'Antiga Esquerra de l'Eixample",122.485035860878
+"2017","record","neighborhood","8","l'Antiga Esquerra de l'Eixample",124.299352617231
+"2018","record","neighborhood","8","l'Antiga Esquerra de l'Eixample",124.652032006986
+"2019","record","neighborhood","8","l'Antiga Esquerra de l'Eixample",124.492471951688
+"2020","record","neighborhood","8","l'Antiga Esquerra de l'Eixample",125.435328657325
+"2021","record","neighborhood","8","l'Antiga Esquerra de l'Eixample",122.209546199943
+"2015","record","neighborhood","9","la Nova Esquerra de l'Eixample",114.690619737848
+"2016","record","neighborhood","9","la Nova Esquerra de l'Eixample",113.842540117398
+"2017","record","neighborhood","9","la Nova Esquerra de l'Eixample",113.820837164648
+"2018","record","neighborhood","9","la Nova Esquerra de l'Eixample",113.668556340397
+"2019","record","neighborhood","9","la Nova Esquerra de l'Eixample",113.418328489469
+"2020","record","neighborhood","9","la Nova Esquerra de l'Eixample",114.867640993854
+"2021","record","neighborhood","9","la Nova Esquerra de l'Eixample",114.94609302044
+"2015","record","neighborhood","10","Sant Antoni",101.575086625277
+"2016","record","neighborhood","10","Sant Antoni",101.907933767104
+"2017","record","neighborhood","10","Sant Antoni",102.314821663154
+"2018","record","neighborhood","10","Sant Antoni",101.104445210832
+"2019","record","neighborhood","10","Sant Antoni",101.814159053596
+"2020","record","neighborhood","10","Sant Antoni",101.418455870558
+"2021","record","neighborhood","10","Sant Antoni",102.66307363814
+"2015","record","neighborhood","11","el Poble Sec",74.5714361221794
+"2016","record","neighborhood","11","el Poble Sec",73.22260754646
+"2017","record","neighborhood","11","el Poble Sec",74.2889740698555
+"2018","record","neighborhood","11","el Poble Sec",74.1901683956656
+"2019","record","neighborhood","11","el Poble Sec",74.2726119866791
+"2020","record","neighborhood","11","el Poble Sec",73.8404926528066
+"2021","record","neighborhood","11","el Poble Sec",77.1646310330281
+"2015","record","neighborhood","12","la Marina del Prat Vermell",60.3445464595206
+"2016","record","neighborhood","12","la Marina del Prat Vermell",59.8464758909752
+"2017","record","neighborhood","12","la Marina del Prat Vermell",62.2252846227148
+"2018","record","neighborhood","12","la Marina del Prat Vermell",61.7457517628355
+"2019","record","neighborhood","12","la Marina del Prat Vermell",59.0673375030087
+"2020","record","neighborhood","12","la Marina del Prat Vermell",64.4989122538517
+"2021","record","neighborhood","12","la Marina del Prat Vermell",68.1582632956148
+"2015","record","neighborhood","13","la Marina de Port",79.0195050853238
+"2016","record","neighborhood","13","la Marina de Port",76.9595666790463
+"2017","record","neighborhood","13","la Marina de Port",76.0141510896998
+"2018","record","neighborhood","13","la Marina de Port",76.1618341111437
+"2019","record","neighborhood","13","la Marina de Port",75.1560933901904
+"2020","record","neighborhood","13","la Marina de Port",75.8746191434599
+"2021","record","neighborhood","13","la Marina de Port",79.2796476835917
+"2015","record","neighborhood","14","la Font de la Guatlla",94.942499963849
+"2016","record","neighborhood","14","la Font de la Guatlla",92.4195360996291
+"2017","record","neighborhood","14","la Font de la Guatlla",92.9427786544535
+"2018","record","neighborhood","14","la Font de la Guatlla",92.2770701760742
+"2019","record","neighborhood","14","la Font de la Guatlla",91.7420489368046
+"2020","record","neighborhood","14","la Font de la Guatlla",93.7060957885396
+"2021","record","neighborhood","14","la Font de la Guatlla",94.2801259223424
+"2015","record","neighborhood","15","Hostafrancs",90.602933865609
+"2016","record","neighborhood","15","Hostafrancs",89.2830236001717
+"2017","record","neighborhood","15","Hostafrancs",88.9951609724627
+"2018","record","neighborhood","15","Hostafrancs",88.3514764908999
+"2019","record","neighborhood","15","Hostafrancs",88.3441437136935
+"2020","record","neighborhood","15","Hostafrancs",88.3119507657355
+"2021","record","neighborhood","15","Hostafrancs",90.3983058796566
+"2015","record","neighborhood","16","la Bordeta",91.4618816371367
+"2016","record","neighborhood","16","la Bordeta",89.7915872839786
+"2017","record","neighborhood","16","la Bordeta",89.6179215324558
+"2018","record","neighborhood","16","la Bordeta",89.0820175486059
+"2019","record","neighborhood","16","la Bordeta",89.62077748519
+"2020","record","neighborhood","16","la Bordeta",90.7220027129441
+"2021","record","neighborhood","16","la Bordeta",93.0201169859777
+"2015","record","neighborhood","17","Sants - Badal",90.8936377729587
+"2016","record","neighborhood","17","Sants - Badal",87.7291165249434
+"2017","record","neighborhood","17","Sants - Badal",86.9084764817345
+"2018","record","neighborhood","17","Sants - Badal",87.9866058846971
+"2019","record","neighborhood","17","Sants - Badal",86.5893504431328
+"2020","record","neighborhood","17","Sants - Badal",87.4042921508296
+"2021","record","neighborhood","17","Sants - Badal",90.2405564019072
+"2015","record","neighborhood","18","Sants",99.4349972600035
+"2016","record","neighborhood","18","Sants",98.1306522483589
+"2017","record","neighborhood","18","Sants",97.4386699426293
+"2018","record","neighborhood","18","Sants",98.4450536860871
+"2019","record","neighborhood","18","Sants",97.3657219633639
+"2020","record","neighborhood","18","Sants",98.6473080645388
+"2021","record","neighborhood","18","Sants",100.026060546412
+"2015","record","neighborhood","19","les Corts",129.052140712658
+"2016","record","neighborhood","19","les Corts",131.04616334425
+"2017","record","neighborhood","19","les Corts",129.577523931499
+"2018","record","neighborhood","19","les Corts",129.161042264296
+"2019","record","neighborhood","19","les Corts",130.083363570066
+"2020","record","neighborhood","19","les Corts",131.142833742278
+"2021","record","neighborhood","19","les Corts",127.688221603361
+"2015","record","neighborhood","20","la Maternitat i Sant Ramon",116.91632464496
+"2016","record","neighborhood","20","la Maternitat i Sant Ramon",118.335061665276
+"2017","record","neighborhood","20","la Maternitat i Sant Ramon",116.920658749068
+"2018","record","neighborhood","20","la Maternitat i Sant Ramon",116.775484835639
+"2019","record","neighborhood","20","la Maternitat i Sant Ramon",118.107057792275
+"2020","record","neighborhood","20","la Maternitat i Sant Ramon",117.524271350623
+"2021","record","neighborhood","20","la Maternitat i Sant Ramon",116.170430428738
+"2015","record","neighborhood","21","Pedralbes",169.256142054982
+"2016","record","neighborhood","21","Pedralbes",179.358989818115
+"2017","record","neighborhood","21","Pedralbes",179.709391129992
+"2018","record","neighborhood","21","Pedralbes",181.846993357991
+"2019","record","neighborhood","21","Pedralbes",182.012616800606
+"2020","record","neighborhood","21","Pedralbes",181.398935079801
+"2021","record","neighborhood","21","Pedralbes",162.671132076605
+"2015","record","neighborhood","22","Vallvidrera, el Tibidabo i les Planes",116.784136641806
+"2016","record","neighborhood","22","Vallvidrera, el Tibidabo i les Planes",126.459974243835
+"2017","record","neighborhood","22","Vallvidrera, el Tibidabo i les Planes",122.052576050894
+"2018","record","neighborhood","22","Vallvidrera, el Tibidabo i les Planes",122.893031041996
+"2019","record","neighborhood","22","Vallvidrera, el Tibidabo i les Planes",135.194074917642
+"2020","record","neighborhood","22","Vallvidrera, el Tibidabo i les Planes",122.508130835822
+"2021","record","neighborhood","22","Vallvidrera, el Tibidabo i les Planes",122.884209388173
+"2015","record","neighborhood","23","Sarrià",149.024995051053
+"2016","record","neighborhood","23","Sarrià",156.752745636163
+"2017","record","neighborhood","23","Sarrià",159.792887140097
+"2018","record","neighborhood","23","Sarrià",163.469041987644
+"2019","record","neighborhood","23","Sarrià",166.609082156496
+"2020","record","neighborhood","23","Sarrià",161.53434966156
+"2021","record","neighborhood","23","Sarrià",151.996242475826
+"2015","record","neighborhood","24","les Tres Torres",174.47968737612
+"2016","record","neighborhood","24","les Tres Torres",185.391334545577
+"2017","record","neighborhood","24","les Tres Torres",190.47740840753
+"2018","record","neighborhood","24","les Tres Torres",191.021877650958
+"2019","record","neighborhood","24","les Tres Torres",195.115435462838
+"2020","record","neighborhood","24","les Tres Torres",191.414971399715
+"2021","record","neighborhood","24","les Tres Torres",174.660693071915
+"2015","record","neighborhood","25","Sant Gervasi - la Bonanova",150.843614760977
+"2016","record","neighborhood","25","Sant Gervasi - la Bonanova",158.329321995476
+"2017","record","neighborhood","25","Sant Gervasi - la Bonanova",163.9908783305
+"2018","record","neighborhood","25","Sant Gervasi - la Bonanova",164.932900036746
+"2019","record","neighborhood","25","Sant Gervasi - la Bonanova",170.833887174476
+"2020","record","neighborhood","25","Sant Gervasi - la Bonanova",166.363273774244
+"2021","record","neighborhood","25","Sant Gervasi - la Bonanova",157.081930384148
+"2015","record","neighborhood","26","Sant Gervasi - Galvany",155.279965813619
+"2016","record","neighborhood","26","Sant Gervasi - Galvany",162.707194844908
+"2017","record","neighborhood","26","Sant Gervasi - Galvany",167.22397477846
+"2018","record","neighborhood","26","Sant Gervasi - Galvany",168.981199400963
+"2019","record","neighborhood","26","Sant Gervasi - Galvany",171.17975348381
+"2020","record","neighborhood","26","Sant Gervasi - Galvany",166.913035071029
+"2021","record","neighborhood","26","Sant Gervasi - Galvany",156.15479410089
+"2015","record","neighborhood","27","el Putxet i el Farró",129.286748239945
+"2016","record","neighborhood","27","el Putxet i el Farró",133.728277279107
+"2017","record","neighborhood","27","el Putxet i el Farró",134.493901470127
+"2018","record","neighborhood","27","el Putxet i el Farró",134.667083213553
+"2019","record","neighborhood","27","el Putxet i el Farró",135.78476894945
+"2020","record","neighborhood","27","el Putxet i el Farró",133.843468264903
+"2021","record","neighborhood","27","el Putxet i el Farró",132.189949962827
+"2015","record","neighborhood","28","Vallcarca i els Penitents",119.34676887344
+"2016","record","neighborhood","28","Vallcarca i els Penitents",118.6108552108
+"2017","record","neighborhood","28","Vallcarca i els Penitents",116.117764780602
+"2018","record","neighborhood","28","Vallcarca i els Penitents",116.166143865822
+"2019","record","neighborhood","28","Vallcarca i els Penitents",115.144157365129
+"2020","record","neighborhood","28","Vallcarca i els Penitents",116.2355986917
+"2021","record","neighborhood","28","Vallcarca i els Penitents",115.536059432832
+"2015","record","neighborhood","29","el Coll",93.0989485294521
+"2016","record","neighborhood","29","el Coll",91.0920807026513
+"2017","record","neighborhood","29","el Coll",91.5397899191141
+"2018","record","neighborhood","29","el Coll",90.7229237074617
+"2019","record","neighborhood","29","el Coll",93.062106847632
+"2020","record","neighborhood","29","el Coll",92.4812485552046
+"2021","record","neighborhood","29","el Coll",93.4120879349373
+"2015","record","neighborhood","30","la Salut",113.622494797996
+"2016","record","neighborhood","30","la Salut",112.107230536973
+"2017","record","neighborhood","30","la Salut",113.122348996907
+"2018","record","neighborhood","30","la Salut",111.680893718909
+"2019","record","neighborhood","30","la Salut",113.377104746029
+"2020","record","neighborhood","30","la Salut",114.240630093131
+"2021","record","neighborhood","30","la Salut",113.851319037922
+"2015","record","neighborhood","31","la Vila de Gràcia",103.709691011166
+"2016","record","neighborhood","31","la Vila de Gràcia",104.228593202109
+"2017","record","neighborhood","31","la Vila de Gràcia",105.066592100184
+"2018","record","neighborhood","31","la Vila de Gràcia",106.235970360556
+"2019","record","neighborhood","31","la Vila de Gràcia",107.062282879303
+"2020","record","neighborhood","31","la Vila de Gràcia",109.1119639476
+"2021","record","neighborhood","31","la Vila de Gràcia",108.295524748047
+"2015","record","neighborhood","32","el Camp d'en Grassot i Gràcia Nova",113.290354364573
+"2016","record","neighborhood","32","el Camp d'en Grassot i Gràcia Nova",113.014194830439
+"2017","record","neighborhood","32","el Camp d'en Grassot i Gràcia Nova",111.62464110506
+"2018","record","neighborhood","32","el Camp d'en Grassot i Gràcia Nova",111.140198295765
+"2019","record","neighborhood","32","el Camp d'en Grassot i Gràcia Nova",112.857003006908
+"2020","record","neighborhood","32","el Camp d'en Grassot i Gràcia Nova",112.876937116205
+"2021","record","neighborhood","32","el Camp d'en Grassot i Gràcia Nova",112.996403737008
+"2015","record","neighborhood","33","el Baix Guinardó",100.534187128548
+"2016","record","neighborhood","33","el Baix Guinardó",98.3550299282782
+"2017","record","neighborhood","33","el Baix Guinardó",96.5703076201442
+"2018","record","neighborhood","33","el Baix Guinardó",96.7410067982145
+"2019","record","neighborhood","33","el Baix Guinardó",97.7437859023779
+"2020","record","neighborhood","33","el Baix Guinardó",97.6135009433272
+"2021","record","neighborhood","33","el Baix Guinardó",99.0861712298037
+"2015","record","neighborhood","34","Can Baró",91.8741526330145
+"2016","record","neighborhood","34","Can Baró",89.7182738545982
+"2017","record","neighborhood","34","Can Baró",89.8714921106339
+"2018","record","neighborhood","34","Can Baró",89.0371791620538
+"2019","record","neighborhood","34","Can Baró",89.1078607122457
+"2020","record","neighborhood","34","Can Baró",91.5880802988794
+"2021","record","neighborhood","34","Can Baró",92.5598988259354
+"2015","record","neighborhood","35","el Guinardó",97.3450206609201
+"2016","record","neighborhood","35","el Guinardó",95.8416815785539
+"2017","record","neighborhood","35","el Guinardó",94.4073706296176
+"2018","record","neighborhood","35","el Guinardó",93.9986195611108
+"2019","record","neighborhood","35","el Guinardó",93.9341372112991
+"2020","record","neighborhood","35","el Guinardó",94.8187033212968
+"2021","record","neighborhood","35","el Guinardó",96.184671315979
+"2015","record","neighborhood","36","la Font d'en Fargues",112.458831489965
+"2016","record","neighborhood","36","la Font d'en Fargues",114.884121372312
+"2017","record","neighborhood","36","la Font d'en Fargues",112.523542601432
+"2018","record","neighborhood","36","la Font d'en Fargues",109.53288563953
+"2019","record","neighborhood","36","la Font d'en Fargues",111.040912993652
+"2020","record","neighborhood","36","la Font d'en Fargues",113.323666632581
+"2021","record","neighborhood","36","la Font d'en Fargues",114.067566125171
+"2015","record","neighborhood","37","el Carmel",70.9087164799197
+"2016","record","neighborhood","37","el Carmel",69.2583767827945
+"2017","record","neighborhood","37","el Carmel",69.1521418697323
+"2018","record","neighborhood","37","el Carmel",69.7109406133684
+"2019","record","neighborhood","37","el Carmel",68.7764272037189
+"2020","record","neighborhood","37","el Carmel",68.7415341655032
+"2021","record","neighborhood","37","el Carmel",71.5493225875165
+"2015","record","neighborhood","38","la Teixonera",79.6255454438022
+"2016","record","neighborhood","38","la Teixonera",77.7370748906328
+"2017","record","neighborhood","38","la Teixonera",77.4714422936065
+"2018","record","neighborhood","38","la Teixonera",76.9375899531902
+"2019","record","neighborhood","38","la Teixonera",75.2053104085012
+"2020","record","neighborhood","38","la Teixonera",76.3712168169577
+"2021","record","neighborhood","38","la Teixonera",78.6047996687908
+"2015","record","neighborhood","39","Sant Genís dels Agudells",85.7662291813868
+"2016","record","neighborhood","39","Sant Genís dels Agudells",80.8598893546006
+"2017","record","neighborhood","39","Sant Genís dels Agudells",82.5076860897403
+"2018","record","neighborhood","39","Sant Genís dels Agudells",82.0956511470017
+"2019","record","neighborhood","39","Sant Genís dels Agudells",79.0789951106305
+"2020","record","neighborhood","39","Sant Genís dels Agudells",80.3652733468028
+"2021","record","neighborhood","39","Sant Genís dels Agudells",81.9454937202862
+"2015","record","neighborhood","40","Montbau",93.5916492684783
+"2016","record","neighborhood","40","Montbau",89.6781926310357
+"2017","record","neighborhood","40","Montbau",88.0838529366995
+"2018","record","neighborhood","40","Montbau",88.1302486907238
+"2019","record","neighborhood","40","Montbau",87.766696963274
+"2020","record","neighborhood","40","Montbau",88.9205942888602
+"2021","record","neighborhood","40","Montbau",90.961795885853
+"2015","record","neighborhood","41","la Vall d'Hebron",105.989697214179
+"2016","record","neighborhood","41","la Vall d'Hebron",106.558320350747
+"2017","record","neighborhood","41","la Vall d'Hebron",104.535401344392
+"2018","record","neighborhood","41","la Vall d'Hebron",103.750286415192
+"2019","record","neighborhood","41","la Vall d'Hebron",102.708373000334
+"2020","record","neighborhood","41","la Vall d'Hebron",106.967051638501
+"2021","record","neighborhood","41","la Vall d'Hebron",103.682761826475
+"2015","record","neighborhood","42","la Clota",85.4231686526447
+"2016","record","neighborhood","42","la Clota",91.5745023609818
+"2017","record","neighborhood","42","la Clota",85.4083349994679
+"2018","record","neighborhood","42","la Clota",88.0801877848567
+"2019","record","neighborhood","42","la Clota",85.2081305077256
+"2020","record","neighborhood","42","la Clota",89.0036109585881
+"2021","record","neighborhood","42","la Clota",92.9761744688893
+"2015","record","neighborhood","43","Horta",92.8798485347875
+"2016","record","neighborhood","43","Horta",91.7040549079
+"2017","record","neighborhood","43","Horta",91.7234544195672
+"2018","record","neighborhood","43","Horta",91.8106662664303
+"2019","record","neighborhood","43","Horta",90.6571639501507
+"2020","record","neighborhood","43","Horta",93.724560091614
+"2021","record","neighborhood","43","Horta",93.9433257046166
+"2015","record","neighborhood","44","Vilapicina i la Torre Llobeta",90.3596002347571
+"2016","record","neighborhood","44","Vilapicina i la Torre Llobeta",88.3447564016611
+"2017","record","neighborhood","44","Vilapicina i la Torre Llobeta",86.7219966511887
+"2018","record","neighborhood","44","Vilapicina i la Torre Llobeta",86.6781530725116
+"2019","record","neighborhood","44","Vilapicina i la Torre Llobeta",86.2473460531184
+"2020","record","neighborhood","44","Vilapicina i la Torre Llobeta",87.1976954998956
+"2021","record","neighborhood","44","Vilapicina i la Torre Llobeta",89.2575562877768
+"2015","record","neighborhood","45","Porta",81.7190623477607
+"2016","record","neighborhood","45","Porta",79.3616908391976
+"2017","record","neighborhood","45","Porta",78.0797444634625
+"2018","record","neighborhood","45","Porta",78.0323899706927
+"2019","record","neighborhood","45","Porta",76.5612931502125
+"2020","record","neighborhood","45","Porta",77.754343351712
+"2021","record","neighborhood","45","Porta",79.4619790951908
+"2015","record","neighborhood","46","el Turó de la Peira",67.2101450178686
+"2016","record","neighborhood","46","el Turó de la Peira",65.3578129446435
+"2017","record","neighborhood","46","el Turó de la Peira",64.5285109432835
+"2018","record","neighborhood","46","el Turó de la Peira",65.1594915054077
+"2019","record","neighborhood","46","el Turó de la Peira",63.6154659989438
+"2020","record","neighborhood","46","el Turó de la Peira",63.8180107887747
+"2021","record","neighborhood","46","el Turó de la Peira",66.1122793690575
+"2015","record","neighborhood","47","Can Peguera",60.3440976884801
+"2016","record","neighborhood","47","Can Peguera",59.7325506803197
+"2017","record","neighborhood","47","Can Peguera",59.836262310508
+"2018","record","neighborhood","47","Can Peguera",60.8855416669999
+"2019","record","neighborhood","47","Can Peguera",58.9120973275518
+"2020","record","neighborhood","47","Can Peguera",59.044673436265
+"2021","record","neighborhood","47","Can Peguera",62.5181418830408
+"2015","record","neighborhood","48","la Guineueta",90.6584318842849
+"2016","record","neighborhood","48","la Guineueta",87.6389217137979
+"2017","record","neighborhood","48","la Guineueta",87.115856559409
+"2018","record","neighborhood","48","la Guineueta",87.2023810924099
+"2019","record","neighborhood","48","la Guineueta",85.6134075061342
+"2020","record","neighborhood","48","la Guineueta",88.0887313957608
+"2021","record","neighborhood","48","la Guineueta",89.9301863837342
+"2015","record","neighborhood","49","Canyelles",83.9058239012464
+"2016","record","neighborhood","49","Canyelles",81.8775472799271
+"2017","record","neighborhood","49","Canyelles",79.7622143573246
+"2018","record","neighborhood","49","Canyelles",80.264993453031
+"2019","record","neighborhood","49","Canyelles",79.9944047075898
+"2020","record","neighborhood","49","Canyelles",81.2966302404576
+"2021","record","neighborhood","49","Canyelles",83.8935657712281
+"2015","record","neighborhood","50","les Roquetes",61.7068158846998
+"2016","record","neighborhood","50","les Roquetes",59.7453322979419
+"2017","record","neighborhood","50","les Roquetes",60.1103991136005
+"2018","record","neighborhood","50","les Roquetes",59.4164140488593
+"2019","record","neighborhood","50","les Roquetes",58.1385010005065
+"2020","record","neighborhood","50","les Roquetes",58.6029840446129
+"2021","record","neighborhood","50","les Roquetes",60.9384753933456
+"2015","record","neighborhood","51","Verdun",66.8416541301645
+"2016","record","neighborhood","51","Verdun",64.5896136092877
+"2017","record","neighborhood","51","Verdun",64.3896531370173
+"2018","record","neighborhood","51","Verdun",64.5800741597743
+"2019","record","neighborhood","51","Verdun",62.8219762967966
+"2020","record","neighborhood","51","Verdun",63.559704396685
+"2021","record","neighborhood","51","Verdun",66.1055794058842
+"2015","record","neighborhood","52","la Prosperitat",74.333986378303
+"2016","record","neighborhood","52","la Prosperitat",71.6083615895509
+"2017","record","neighborhood","52","la Prosperitat",71.2711787977968
+"2018","record","neighborhood","52","la Prosperitat",71.3393785954811
+"2019","record","neighborhood","52","la Prosperitat",70.5290649844266
+"2020","record","neighborhood","52","la Prosperitat",71.3002697920609
+"2021","record","neighborhood","52","la Prosperitat",73.8591464431744
+"2015","record","neighborhood","53","la Trinitat Nova",56.1827435567698
+"2016","record","neighborhood","53","la Trinitat Nova",55.0956209695701
+"2017","record","neighborhood","53","la Trinitat Nova",55.8520930547715
+"2018","record","neighborhood","53","la Trinitat Nova",55.5684053578343
+"2019","record","neighborhood","53","la Trinitat Nova",54.8325184384194
+"2020","record","neighborhood","53","la Trinitat Nova",55.6736538626498
+"2021","record","neighborhood","53","la Trinitat Nova",58.8699426252119
+"2015","record","neighborhood","54","Torre Baró",52.1417597908129
+"2016","record","neighborhood","54","Torre Baró",50.042348151971
+"2017","record","neighborhood","54","Torre Baró",51.4370351424772
+"2018","record","neighborhood","54","Torre Baró",52.7904955794432
+"2019","record","neighborhood","54","Torre Baró",51.9030730100338
+"2020","record","neighborhood","54","Torre Baró",52.3515816541399
+"2021","record","neighborhood","54","Torre Baró",56.7037290146757
+"2015","record","neighborhood","55","Ciutat Meridiana",51.5549667236273
+"2016","record","neighborhood","55","Ciutat Meridiana",48.4971711627413
+"2017","record","neighborhood","55","Ciutat Meridiana",48.643511928649
+"2018","record","neighborhood","55","Ciutat Meridiana",49.578034554258
+"2019","record","neighborhood","55","Ciutat Meridiana",47.8075973832353
+"2020","record","neighborhood","55","Ciutat Meridiana",47.5096695277452
+"2021","record","neighborhood","55","Ciutat Meridiana",50.4973914039935
+"2015","record","neighborhood","56","Vallbona",56.3016678825038
+"2016","record","neighborhood","56","Vallbona",54.6048068528763
+"2017","record","neighborhood","56","Vallbona",54.7013865262119
+"2018","record","neighborhood","56","Vallbona",57.2325540801285
+"2019","record","neighborhood","56","Vallbona",55.0425439809742
+"2020","record","neighborhood","56","Vallbona",54.7830541314242
+"2021","record","neighborhood","56","Vallbona",58.3911031882121
+"2015","record","neighborhood","57","la Trinitat Vella",56.7423610442802
+"2016","record","neighborhood","57","la Trinitat Vella",55.6179309213858
+"2017","record","neighborhood","57","la Trinitat Vella",55.8301907409997
+"2018","record","neighborhood","57","la Trinitat Vella",55.6469783961784
+"2019","record","neighborhood","57","la Trinitat Vella",54.0729777014575
+"2020","record","neighborhood","57","la Trinitat Vella",54.1044304150203
+"2021","record","neighborhood","57","la Trinitat Vella",57.0445954169479
+"2015","record","neighborhood","58","Baró de Viver",54.054970463386
+"2016","record","neighborhood","58","Baró de Viver",54.151999961414
+"2017","record","neighborhood","58","Baró de Viver",54.2584253524769
+"2018","record","neighborhood","58","Baró de Viver",55.4696950378068
+"2019","record","neighborhood","58","Baró de Viver",53.2264539677179
+"2020","record","neighborhood","58","Baró de Viver",54.6484731087538
+"2021","record","neighborhood","58","Baró de Viver",57.8508551232308
+"2015","record","neighborhood","59","el Bon Pastor",72.1540561173227
+"2016","record","neighborhood","59","el Bon Pastor",70.901851646417
+"2017","record","neighborhood","59","el Bon Pastor",70.7160338774873
+"2018","record","neighborhood","59","el Bon Pastor",70.953288563953
+"2019","record","neighborhood","59","el Bon Pastor",69.819369950316
+"2020","record","neighborhood","59","el Bon Pastor",69.6042678225353
+"2021","record","neighborhood","59","el Bon Pastor",73.1949721628082
+"2015","record","neighborhood","60","Sant Andreu",99.0948288113003
+"2016","record","neighborhood","60","Sant Andreu",96.8187759551245
+"2017","record","neighborhood","60","Sant Andreu",95.2691002252741
+"2018","record","neighborhood","60","Sant Andreu",95.6480417199309
+"2019","record","neighborhood","60","Sant Andreu",95.0949583092338
+"2020","record","neighborhood","60","Sant Andreu",96.7835765597369
+"2021","record","neighborhood","60","Sant Andreu",98.846127721629
+"2015","record","neighborhood","61","la Sagrera",92.1416201731558
+"2016","record","neighborhood","61","la Sagrera",90.3300068972503
+"2017","record","neighborhood","61","la Sagrera",89.2178583545398
+"2018","record","neighborhood","61","la Sagrera",88.4506102584394
+"2019","record","neighborhood","61","la Sagrera",87.7606346480624
+"2020","record","neighborhood","61","la Sagrera",90.0290340261728
+"2021","record","neighborhood","61","la Sagrera",91.095148256323
+"2015","record","neighborhood","62","el Congrés i els Indians",91.9204757770844
+"2016","record","neighborhood","62","el Congrés i els Indians",89.786522869449
+"2017","record","neighborhood","62","el Congrés i els Indians",89.0038455500368
+"2018","record","neighborhood","62","el Congrés i els Indians",88.8493096158814
+"2019","record","neighborhood","62","el Congrés i els Indians",88.8963083643784
+"2020","record","neighborhood","62","el Congrés i els Indians",89.0038532722767
+"2021","record","neighborhood","62","el Congrés i els Indians",92.3681412592511
+"2015","record","neighborhood","63","Navas",93.1425291838301
+"2016","record","neighborhood","63","Navas",91.8776919774851
+"2017","record","neighborhood","63","Navas",90.8222147676947
+"2018","record","neighborhood","63","Navas",91.0235243912825
+"2019","record","neighborhood","63","Navas",90.0928746690425
+"2020","record","neighborhood","63","Navas",92.0015159144361
+"2021","record","neighborhood","63","Navas",94.2003270506161
+"2015","record","neighborhood","64","el Camp de l'Arpa del Clot",96.7259659422671
+"2016","record","neighborhood","64","el Camp de l'Arpa del Clot",95.3821221343854
+"2017","record","neighborhood","64","el Camp de l'Arpa del Clot",94.226712329094
+"2018","record","neighborhood","64","el Camp de l'Arpa del Clot",93.7330238716182
+"2019","record","neighborhood","64","el Camp de l'Arpa del Clot",92.6670684260254
+"2020","record","neighborhood","64","el Camp de l'Arpa del Clot",95.1506730747329
+"2021","record","neighborhood","64","el Camp de l'Arpa del Clot",96.4312299607567
+"2015","record","neighborhood","65","el Clot",94.554013833118
+"2016","record","neighborhood","65","el Clot",93.5209739110303
+"2017","record","neighborhood","65","el Clot",91.8968119488335
+"2018","record","neighborhood","65","el Clot",92.7013645831324
+"2019","record","neighborhood","65","el Clot",91.5615266616132
+"2020","record","neighborhood","65","el Clot",92.6334215516702
+"2021","record","neighborhood","65","el Clot",97.0840836136921
+"2015","record","neighborhood","66","el Parc i la Llacuna del Poblenou",98.8633128178483
+"2016","record","neighborhood","66","el Parc i la Llacuna del Poblenou",97.6691635034173
+"2017","record","neighborhood","66","el Parc i la Llacuna del Poblenou",97.2770986257849
+"2018","record","neighborhood","66","el Parc i la Llacuna del Poblenou",95.9699559285239
+"2019","record","neighborhood","66","el Parc i la Llacuna del Poblenou",96.4511206750994
+"2020","record","neighborhood","66","el Parc i la Llacuna del Poblenou",98.8783299352877
+"2021","record","neighborhood","66","el Parc i la Llacuna del Poblenou",99.9706587819652
+"2015","record","neighborhood","67","la Vila Olímpica del Poblenou",149.087922723621
+"2016","record","neighborhood","67","la Vila Olímpica del Poblenou",147.381601223177
+"2017","record","neighborhood","67","la Vila Olímpica del Poblenou",144.494049394251
+"2018","record","neighborhood","67","la Vila Olímpica del Poblenou",142.789841588286
+"2019","record","neighborhood","67","la Vila Olímpica del Poblenou",143.989057296513
+"2020","record","neighborhood","67","la Vila Olímpica del Poblenou",141.154993043174
+"2021","record","neighborhood","67","la Vila Olímpica del Poblenou",139.323747303265
+"2015","record","neighborhood","68","el Poblenou",100.852864430756
+"2016","record","neighborhood","68","el Poblenou",99.3513208475418
+"2017","record","neighborhood","68","el Poblenou",99.3947040300735
+"2018","record","neighborhood","68","el Poblenou",98.764521309055
+"2019","record","neighborhood","68","el Poblenou",100.584272468287
+"2020","record","neighborhood","68","el Poblenou",102.061653325683
+"2021","record","neighborhood","68","el Poblenou",103.891246197771
+"2015","record","neighborhood","69","Diagonal Mar i el Front Marítim del Poblenou",115.102242508889
+"2016","record","neighborhood","69","Diagonal Mar i el Front Marítim del Poblenou",114.777913364749
+"2017","record","neighborhood","69","Diagonal Mar i el Front Marítim del Poblenou",111.680756837077
+"2018","record","neighborhood","69","Diagonal Mar i el Front Marítim del Poblenou",112.620758996731
+"2019","record","neighborhood","69","Diagonal Mar i el Front Marítim del Poblenou",114.881726475523
+"2020","record","neighborhood","69","Diagonal Mar i el Front Marítim del Poblenou",116.923139551846
+"2021","record","neighborhood","69","Diagonal Mar i el Front Marítim del Poblenou",112.800164125994
+"2015","record","neighborhood","70","el Besòs i el Maresme",62.3212333026008
+"2016","record","neighborhood","70","el Besòs i el Maresme",60.6065239305645
+"2017","record","neighborhood","70","el Besòs i el Maresme",60.4164111794372
+"2018","record","neighborhood","70","el Besòs i el Maresme",60.2924799015343
+"2019","record","neighborhood","70","el Besòs i el Maresme",59.0644186104994
+"2020","record","neighborhood","70","el Besòs i el Maresme",59.2597026035637
+"2021","record","neighborhood","70","el Besòs i el Maresme",62.6361536481762
+"2015","record","neighborhood","71","Provençals del Poblenou",90.7402578040037
+"2016","record","neighborhood","71","Provençals del Poblenou",90.5873273878714
+"2017","record","neighborhood","71","Provençals del Poblenou",89.7626963036625
+"2018","record","neighborhood","71","Provençals del Poblenou",88.7814639145088
+"2019","record","neighborhood","71","Provençals del Poblenou",88.1923163971706
+"2020","record","neighborhood","71","Provençals del Poblenou",89.5943717314912
+"2021","record","neighborhood","71","Provençals del Poblenou",91.4942812348818
+"2015","record","neighborhood","72","Sant Martí de Provençals",87.2226906616232
+"2016","record","neighborhood","72","Sant Martí de Provençals",84.9758596240757
+"2017","record","neighborhood","72","Sant Martí de Provençals",84.4848590116092
+"2018","record","neighborhood","72","Sant Martí de Provençals",83.8874457693124
+"2019","record","neighborhood","72","Sant Martí de Provençals",83.4466462374128
+"2020","record","neighborhood","72","Sant Martí de Provençals",84.0098166121542
+"2021","record","neighborhood","72","Sant Martí de Provençals",86.2822181591181
+"2015","record","neighborhood","73","la Verneda i la Pau",79.0210009887922
+"2016","record","neighborhood","73","la Verneda i la Pau",77.1616127025163
+"2017","record","neighborhood","73","la Verneda i la Pau",75.9650975416442
+"2018","record","neighborhood","73","la Verneda i la Pau",75.5941321466766
+"2019","record","neighborhood","73","la Verneda i la Pau",75.1059333450688
+"2020","record","neighborhood","73","la Verneda i la Pau",76.0582444567109
+"2021","record","neighborhood","73","la Verneda i la Pau",78.4482053571057
+"2015","global","","","",100
+"2016","global","","","",100
+"2017","global","","","",100
+"2018","global","","","",100
+"2019","global","","","",100
+"2020","global","","","",100
+"2021","global","","","",100
