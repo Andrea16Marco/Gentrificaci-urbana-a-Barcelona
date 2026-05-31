@@ -3,6 +3,19 @@
 # Aplicació Streamlit — Gentrificació a Barcelona
 # =====================================================
 
+# ==================================================
+# Configuració projecte
+# ==================================================
+
+import sys
+from pathlib import Path
+
+# Ruta absoluta del projecte
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+# Afegir-la al PATH
+sys.path.append(str(PROJECT_ROOT))
+
 # =====================================================
 # Imports
 # =====================================================
@@ -19,11 +32,6 @@ from streamlit_folium import st_folium
 # ==================================================
 # Configuració projecte
 # ==================================================
-
-PROJECT_ROOT = os.path.abspath("..")
-
-if PROJECT_ROOT not in sys.path:
-    sys.path.append(PROJECT_ROOT)
 
 from src.config import (
     DATA_PROCESSED,
