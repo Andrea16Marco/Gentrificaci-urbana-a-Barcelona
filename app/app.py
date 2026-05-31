@@ -84,7 +84,7 @@ def load_data() -> gpd.GeoDataFrame:
     Carrega el GeoDataFrame principal.
     """
 
-    path = DATA_PROCESSED / "geospatial_dataset.geojson"
+    path = DATA_PROCESSED / "df_geo_final.geojson"
 
     gdf = gpd.read_file(path)
 
