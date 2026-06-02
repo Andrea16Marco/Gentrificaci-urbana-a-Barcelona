@@ -30,7 +30,7 @@ El flux de treball del projecte s’estructura en diverses fases:
 
 ### Tecnologies utilitzades
 #### Llenguatge de programació
-· Python
+- Python
 
 #### Principals llibreries
 - pandas
@@ -56,6 +56,12 @@ Per executar l’aplicació localment:
 
 ```Bash
  streamlit run app.py
+```
+
+També es pot trobar ja publicada en el seguent link:
+
+```Url
+https://gentrificaci-urbana-a-barcelona-tfm.streamlit.app/
 ```
 
 ### Fonts de dades
